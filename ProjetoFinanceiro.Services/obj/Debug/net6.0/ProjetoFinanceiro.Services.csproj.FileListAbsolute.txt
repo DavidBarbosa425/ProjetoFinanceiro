@@ -1,0 +1,12 @@
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\bin\Debug\net6.0\ProjetoFinanceiro.Services.deps.json
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\bin\Debug\net6.0\ProjetoFinanceiro.Services.dll
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\bin\Debug\net6.0\ProjetoFinanceiro.Services.pdb
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ProjetoFinanceiro.Services.csproj.AssemblyReference.cache
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ProjetoFinanceiro.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ProjetoFinanceiro.Services.AssemblyInfoInputs.cache
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ProjetoFinanceiro.Services.AssemblyInfo.cs
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ProjetoFinanceiro.Services.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ProjetoFinanceiro.Services.dll
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\refint\ProjetoFinanceiro.Services.dll
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ProjetoFinanceiro.Services.pdb
+C:\Users\DAVID\Documents\Estudos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\net6.0\ref\ProjetoFinanceiro.Services.dll
